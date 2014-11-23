@@ -1,5 +1,5 @@
 datasciencecoursera
 ===================
 
-This is a file for my Coursera Project
+This file is for my Coursera Project
 My first steps in gitHub
